@@ -85,7 +85,10 @@ solar-differential-rotation/
 ├── notebooks/
 │   └── solar_differential_rotation.ipynb   # Full analysis notebook
 ├── report/
-│   └── lab_report_phys146.pdf              # Final lab report (April 2024)
+│   └── lab_report_solar rotation(final).pdf              # Final lab report (April 2024)
+│   └── lab_report_solar rotation(midterm).pdf            # Final lab report (March 2024)
+├── presentation/
+│   └── SOlar Rotation Presentation                       # Presentation (April 2024)
 └── README.md
 ```
 
