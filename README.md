@@ -88,7 +88,7 @@ solar-differential-rotation/
 │   └── lab_report_solar rotation(final).pdf              # Final lab report (April 2024)
 │   └── lab_report_solar rotation(midterm).pdf            # Final lab report (March 2024)
 ├── presentation/
-│   └── SOlar Rotation Presentation                       # Presentation (April 2024)
+│   └── Solar Rotation Presentation                       # Presentation (April 2024)
 └── README.md
 ```
 
